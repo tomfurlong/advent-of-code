@@ -5,4 +5,4 @@ Code Solutions for the Advent of Code.
 
 [2024] 2&#x2605;
 
-Total stars: 12*
+Total stars: 12&#x2605;
